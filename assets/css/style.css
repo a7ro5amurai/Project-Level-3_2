@@ -1,0 +1,184 @@
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url("../fonts/Roboto-Regular.ttf");
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 10px;
+    font-family: "Roboto-Regular";
+}
+
+.landinpage{
+    width: 1440px;
+    height: 4509px;
+    background-color: #CCCCCC;
+    margin: 200px auto;
+
+}
+.frontpage{
+    width: 1440px;
+    height: 662px;
+    padding: 20px 100px;
+}
+
+.navblock{
+    width: 1240px;
+    margin-bottom: 100px;
+    font-size: 14px;
+}
+.navbar{
+    text-decoration: none;
+    color: #659d89;
+    margin-right: 22px;
+}
+
+.eyecatcher{
+    display: inline-block;
+    width: 620px;
+    height: 234px;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.binde{
+    letter-spacing: -2px;
+}
+
+.workgreen{
+    color: #659d89;
+}
+
+.colshadow{
+    text-shadow: 0px 5px 40px;
+}
+
+.social{
+    width: 1240px;
+    height: 73.5;
+    margin-bottom: 80px;
+    text-align: end;
+}
+
+.browse{
+    font-size: 16px;
+}
+
+.meme{
+    width: 1440px;
+    height: 737.5px;
+    margin-top:61px;
+    padding: 0px 100px 1px 100px;
+}
+
+.meme section:first-of-type{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.meme section:nth-of-type(2){
+    font-size: 16px;
+}
+
+.meme section:nth-of-type(3){
+    width: 1240px;
+    height: 679px;
+    padding: 80px;
+}
+
+.meme section:nth-of-type(3) div{
+    display: inline-block;
+    width: 320px;
+    height: 232px;
+}
+
+.stress{
+    margin-bottom: 52.5px;
+    margin-right: 52.48px;
+}
+
+.sleep{
+    margin-bottom: 52.5px;
+    margin-right: 52.47px;
+}
+
+.anxiety{
+    margin-right: 52.48px;
+}
+
+.confidence{
+    margin-right: 52.47px;
+}
+
+.resources{
+    padding: 50px 180px;
+}
+
+.feature{
+    font-size: 20px;
+    margin-left: -80px;
+    margin-bottom: 95px;
+}
+
+.firstpic, .secondpic, .thirdpic{
+    margin-bottom: 100px;
+}
+
+.secondpic, .fourthpic{
+    margin-left: 324px;
+}
+
+.fourthpic{
+    margin-bottom: 100px;
+}
+
+.p1{
+    width: 756px;
+    height: 425.25px;
+    margin-bottom: 16.75px;
+}
+
+.p1be{
+    text-align: center;
+    width: 756px;
+    height: 91.5px;
+}
+
+.p1be p:first-of-type, .p1be p:nth-of-type(2){
+    margin-bottom: 20px;
+}
+
+.p1be p:first-of-type, .p1be p:nth-of-type(3){
+    font-size: 12px;
+    color: #666666;
+}
+
+.p1be p:nth-of-type(2){
+    font-size: 20px;
+}
+
+.lastchapter{
+    padding-top: 78.39px;
+    text-align: center;
+}
+
+.lastchapter p:first-of-type{
+
+    font-size: 20px;
+    color: #666666;
+    margin-bottom: 82.5px;
+}
+
+.lastchapter p:last-of-type{
+    font-size: 10px;
+    color: #666666;
+}
+
+.p1:hover{
+    box-shadow: 0px 0px 10px;
+}
